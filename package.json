@@ -1,0 +1,15 @@
+{
+  "name": "scraping-tutorial",
+  "version": "1.0.0",
+  "description": "check for availability of discounted stadia bundle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrape": "node index.js"
+  },
+  "author": "Simon Koerner",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^12.0.1"
+  }
+}
